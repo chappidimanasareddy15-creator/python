@@ -16,7 +16,13 @@ print("Student Name:", student_name)
 print("Total Classes:", total_classes)
 print("Attended Classes:", attended_classes)
 print("Attendance Percentage:", attendance_percentage, "%")
-
+#==================================================
+#output
+#==================================================
+Student Name: Manasa
+Total Classes: 10
+Attended Classes: 8
+Attendance Percentage: 80.0 %
 
 # ------------------------------------------------
 # 1. if, elif, else
@@ -32,7 +38,10 @@ elif attendance_percentage >= 50:
 
 else:
     print("Attendance Status: Not Eligible")
-
+#=================================================
+#output
+#=================================================
+Attendance Status: Eligible
 
 # ------------------------------------------------
 # 2. Nested if
@@ -53,7 +62,10 @@ if attendance_percentage >= 75:
 
 else:
     print("Attendance is below 75%")
-
+#================================================
+#output
+#================================================
+Very Good Attendance
 
 # ------------------------------------------------
 # 3. FOR LOOP
@@ -65,7 +77,14 @@ attendance = ["Present", "Present", "Absent", "Present", "Present"]
 
 for day in attendance:
     print("Attendance:", day)
-
+#================================================
+#output
+#================================================
+Attendance: Present
+Attendance: Present
+Attendance: Absent
+Attendance: Present
+Attendance: Present
 
 # ------------------------------------------------
 # 4. FOR LOOP with CONTINUE
@@ -79,7 +98,13 @@ for day in attendance:
         continue
 
     print("Student was Present")
-
+#==================================================
+#output
+#==================================================
+Student was Present
+Student was Present
+Student was Present
+Student was Present
 
 # ------------------------------------------------
 # 5. FOR LOOP with BREAK
@@ -94,7 +119,12 @@ for day in attendance:
         break
 
     print("Present")
-
+#=================================================
+#output
+#=================================================
+Present
+Present
+Absent day found!
 
 # ------------------------------------------------
 # 6. PASS
@@ -108,7 +138,14 @@ for day in attendance:
         pass
 
     print("Checking:", day)
-
+#================================================
+#output
+#================================================
+Checking: Present
+Checking: Present
+Checking: Absent
+Checking: Present
+Checking: Present
 
 # ------------------------------------------------
 # 7. WHILE LOOP
@@ -122,7 +159,14 @@ while day_number <= 5:
     print("Checking attendance for Day", day_number)
 
     day_number += 1
-
+#=================================================
+#output
+#=================================================
+Checking attendance for Day 1
+Checking attendance for Day 2
+Checking attendance for Day 3
+Checking attendance for Day 4
+Checking attendance for Day 5
 
 # ------------------------------------------------
 # 8. WHILE LOOP with BREAK
@@ -141,6 +185,15 @@ while day_number <= 10:
     print("Day", day_number, "Present")
 
     day_number += 1
+#================================================
+#output
+#================================================
+Day 1 Present
+Day 2 Present
+Day 3 Present
+Day 4 Present
+Day 5 Present
+Attendance checking stopped.
 
 
 # ------------------------------------------------
@@ -159,6 +212,12 @@ while day_number < 5:
         continue
 
     print("Checking Day", day_number)
-
+#====================================================
+#output
+#====================================================
+Checking Day 1
+Checking Day 2
+Checking Day 4
+Checking Day 5
 
 print("\n===== PROGRAM COMPLETED =====")
