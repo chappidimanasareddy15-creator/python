@@ -1,0 +1,199 @@
+# Python Learning 
+
+This repository contains my **Python learning journey**, including basic concepts, practice programs, exercises, and small projects.
+I am using this repository to improve my Python programming skills step by step.
+
+## 🎯 Learning Objectives
+
+* Learn Python fundamentals
+* Understand variables and data types
+* Practice operators and expressions
+* Learn conditional statements
+* Understand loops
+* Work with strings and collections
+* Learn functions
+* Practice error handling
+* Understand file handling
+* Learn Object-Oriented Programming (OOP)
+* Build small Python projects
+
+## 📚 Topics Covered
+
+### Day 1 – Python Fundamentals
+
+* Python syntax
+* Comments
+* Variables
+* Data types
+
+  * String
+  * Integer
+  * Float
+  * Boolean
+* Type conversion
+* Basic calculations
+* `print()` function
+* `input()` function
+
+### Day 2 – Operators
+
+* Arithmetic operators
+* Comparison operators
+* Logical operators
+* Assignment operators
+* Membership operators
+
+### Day 3 – Conditional Statements
+
+* `if`
+* `if-else`
+* `if-elif-else`
+* Nested conditions
+
+### Day 4 – Loops
+
+* `for` loop
+* `while` loop
+* `break`
+* `continue`
+* `pass`
+
+### Day 5 – Data Structures
+
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+
+### Day 6 – Strings
+
+* String methods
+* String slicing
+* String formatting
+* f-strings
+
+### Day 7 – Functions
+
+* Defining functions
+* Parameters and arguments
+* Return values
+* Default arguments
+* Lambda functions
+
+### Day 8 – File Handling
+
+* Reading files
+* Writing files
+* Appending data
+* Working with CSV files
+
+### Day 9 – Exception Handling
+
+* `try`
+* `except`
+* `else`
+* `finally`
+* Handling common errors
+
+### Day 10 – Object-Oriented Programming
+
+* Classes
+* Objects
+* Constructors
+* Methods
+* Inheritance
+* Encapsulation
+* Polymorphism
+
+## 📂 Repository Structure
+
+```text
+Python-Learning/
+│
+├── Day-01/
+│   ├── basics.py
+│   └── practice.py
+│
+├── Day-02/
+│   └── operators.py
+│
+├── Day-03/
+│   └── conditions.py
+│
+├── Day-04/
+│   └── loops.py
+│
+├── Day-05/
+│   └── data_structures.py
+│
+├── Day-06/
+│   └── strings.py
+│
+├── Day-07/
+│   └── functions.py
+│
+├── Day-08/
+│   └── file_handling.py
+│
+├── Day-09/
+│   └── exceptions.py
+│
+├── Day-10/
+│   └── oop.py
+│
+└── README.md
+```
+
+## 🛠️ Tools Used
+
+* **Python 3**
+* **VS Code**
+* **Git**
+* **GitHub**
+
+## ▶️ How to Run
+
+1. Install Python from the official Python website.
+2. Clone this repository.
+3. Open the project in VS Code.
+4. Open a Python file.
+5. Run the program using:
+
+```bash
+python filename.py
+```
+
+## 💡 Practice Approach
+
+For each topic, I follow this process:
+
+1. Learn the concept
+2. Write simple examples
+3. Practice different problems
+4. Debug errors
+5. Build small programs
+6. Commit the work to GitHub
+
+## 🚀 Goal
+
+The main goal of this repository is to build a **strong foundation in Python** and gradually move from beginner-level programs to real-world Python projects.
+
+---
+
+### 📌 Progress
+
+* [x] Python Fundamentals
+* [ ] Operators
+* [ ] Conditional Statements
+* [ ] Loops
+* [ ] Data Structures
+* [ ] Strings
+* [ ] Functions
+* [ ] File Handling
+* [ ] Exception Handling
+* [ ] OOP
+* [ ] Mini Projects
+
+---
+
+**Learning Python one step at a time 🚀🐍**
